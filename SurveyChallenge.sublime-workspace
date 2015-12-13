@@ -1,0 +1,2136 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"backgroundClock"
+			],
+			[
+				"TIME_",
+				"TIME_FOR_SHRINKING"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"super",
+				"superview"
+			],
+			[
+				"animation",
+				"animationCompletion"
+			],
+			[
+				"white",
+				"whiteColor"
+			],
+			[
+				"black",
+				"blackColor"
+			],
+			[
+				"minu",
+				"MINUTES"
+			],
+			[
+				"Hou",
+				"HOURS"
+			],
+			[
+				"com",
+				"com-section	Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"mdbu",
+				"mdButtonW"
+			],
+			[
+				"show",
+				"removeShadowAnimate"
+			],
+			[
+				"cit",
+				"cityElement"
+			],
+			[
+				"appen",
+				"appendTo〔function〕"
+			],
+			[
+				"ns",
+				"NSUserDefaults"
+			],
+			[
+				"send",
+				"sendgrid_password"
+			],
+			[
+				"re",
+				"replacements"
+			],
+			[
+				"schoo",
+				"schools"
+			],
+			[
+				"pr",
+				"promiseMet"
+			],
+			[
+				"res",
+				"resourceObj"
+			],
+			[
+				"atten",
+				"attendee"
+			],
+			[
+				"wa",
+				"waterfall_CB"
+			],
+			[
+				"write",
+				"write_Error"
+			],
+			[
+				"upda",
+				"updateErr〔argument〕"
+			],
+			[
+				"upd",
+				"updateErr〔argument〕"
+			],
+			[
+				"att",
+				"attendee〔argument〕"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"t",
+				"timeout	setTimeout function"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"bef",
+				"befSum〔variable〕"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"json",
+				"jsonfileObj〔variable〕"
+			],
+			[
+				"var",
+				"varFinalObj〔variable〕"
+			],
+			[
+				"post",
+				"postAclCnt"
+			],
+			[
+				"ret",
+				"returnObj〔variable〕"
+			],
+			[
+				"retu",
+				"returnObj"
+			],
+			[
+				"repla",
+				"replaceAll"
+			],
+			[
+				"Str",
+				"String"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"str1",
+				"str1_test1"
+			],
+			[
+				"path",
+				"pathList"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"is",
+				"isTest"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"BU",
+				"buildData"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"pa",
+				"pathList"
+			],
+			[
+				"Tr",
+				"True"
+			],
+			[
+				"cross",
+				"crossvalidation"
+			],
+			[
+				"tra",
+				"trainSum"
+			],
+			[
+				"train_sc",
+				"train_scores_mean"
+			],
+			[
+				"plt",
+				"plt_num"
+			],
+			[
+				"off",
+				"Offensive_Reb"
+			],
+			[
+				"al",
+				"alpha"
+			],
+			[
+				"Feat",
+				"FEATURES"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"_",
+				"_pos"
+			],
+			[
+				"play",
+				"playersInfo"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"heig",
+				"Height"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"PLAYER",
+				"player"
+			],
+			[
+				"seas",
+				"season"
+			],
+			[
+				"x",
+				"X"
+			],
+			[
+				"label",
+				"labelArray"
+			],
+			[
+				"lab",
+				"labelArray"
+			],
+			[
+				"labe",
+				"labelText"
+			],
+			[
+				"Season",
+				"Season"
+			],
+			[
+				"Seas",
+				"Seasons"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"adva",
+				"advanced"
+			],
+			[
+				"quer",
+				"queryReturn"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"ab",
+				"above35Games"
+			],
+			[
+				"retur",
+				"returnDataFrame"
+			],
+			[
+				"que",
+				"queryReturn"
+			],
+			[
+				"total",
+				"total_count"
+			],
+			[
+				"tot",
+				"total_count"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"map",
+				"map"
+			],
+			[
+				"stat",
+				"statHeader"
+			],
+			[
+				"get",
+				"getFinalHead"
+			],
+			[
+				"ADV",
+				"advancedStats"
+			],
+			[
+				"adv",
+				"advancedStats"
+			],
+			[
+				"per",
+				"PER"
+			],
+			[
+				"TOTALS",
+				"totalsStats"
+			],
+			[
+				"correc",
+				"correct_count"
+			],
+			[
+				"pre",
+				"prediction"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"nba",
+				"nbaFrame"
+			],
+			[
+				"ea",
+				"forEachOf"
+			],
+			[
+				"Pla",
+				"Player"
+			],
+			[
+				"P",
+				"Player"
+			],
+			[
+				"Player",
+				"PlayerSchema"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"Play",
+				"PLAYERS"
+			],
+			[
+				"idx",
+				"idx_1"
+			],
+			[
+				"SEA",
+				"Season"
+			],
+			[
+				"ind",
+				"getIndicesOf"
+			],
+			[
+				"header",
+				"headers"
+			],
+			[
+				"un",
+				"uniqueList"
+			],
+			[
+				"out",
+				"outputFile"
+			],
+			[
+				"ac",
+				"activate"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"THE",
+				"the_url"
+			],
+			[
+				"main",
+				"mainModule"
+			],
+			[
+				"AGE",
+				"Age"
+			],
+			[
+				"Data",
+				"DataFrame"
+			],
+			[
+				"season",
+				"SEASON"
+			],
+			[
+				"data",
+				"dataSet"
+			],
+			[
+				"callb",
+				"callback_Low"
+			],
+			[
+				"players",
+				"PlayersObj"
+			],
+			[
+				"ad",
+				"addUp"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"eval",
+				"evalSrc"
+			],
+			[
+				"act",
+				"activateSrc"
+			],
+			[
+				"stock",
+				"stock_price"
+			],
+			[
+				"plot",
+				"plot_df"
+			],
+			[
+				"sp500_p",
+				"sp500_p_change"
+			],
+			[
+				"starting",
+				"starting_stock_value"
+			],
+			[
+				"sp",
+				"sp500_value"
+			],
+			[
+				"start",
+				"starting_sp500_value"
+			],
+			[
+				"sp500",
+				"sp500_value"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"decoded",
+				"decodedToken"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/views/home.html",
+			"settings":
+			{
+				"buffer_size": 3379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 26,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"swift",
+				"Set Syntax: Swift"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"object",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ly",
+				"LyX Math: Display Math"
+			],
+			[
+				"projec",
+				"Project: Edit"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"complet",
+				"AngularJS: Toggle - Disable All Completions"
+			],
+			[
+				"csv",
+				"CSV: Format"
+			],
+			[
+				"t",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jva",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"1 to",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"from",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"tex",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syntax:j",
+				"Set Syntax: JSON"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"PYTHON",
+				"Set Syntax: Python"
+			],
+			[
+				"set s",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"MINIm",
+				"View: Toggle Minimap"
+			],
+			[
+				"CONVERT",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"appl",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"javscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Markdown HTML Preview"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"x1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insatl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packag",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"git push",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"status",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"git comm",
+				"Git (SideBarGit): Add & Commit…"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"erb",
+				"ERB: Add Layout Mapping"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"browse serv",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"javc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja va",
+				"Set Syntax: Java"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"amen",
+				"Git (SideBarGit): Commit Amend"
+			],
+			[
+				"diff",
+				"Git (SideBarGit): Diff: all changes since the last commit"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"commit",
+				"Git (SideBarGit): Add & Commit & Push…"
+			],
+			[
+				"OBJEC",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"OBJECT",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS3"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git (SideBarGit): Commit All…"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"quc",
+				"Git: Quick Commit"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"file path",
+				"File: Copy Path"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 707.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"536*4",
+			"536*3",
+			"536*2",
+			"4*4",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1+ 1+ 1+ 1+ 1+ 1+ 1+ 1+ 1+ 1+ 1+ 1",
+			"clear",
+			"269/6",
+			"269/60",
+			"34+ 17+ 44+ 8+ 23+ 8+ 5+ 24+ 44+ 12+ 36+ 3+ 9+ 2",
+			"34+ 17+ 44+ 08+ 23+ 08+ 05+ 24+ 44+ 12+ 36+ 03+ 09+ 02",
+			"4+3",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"help",
+			"var x = 20",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"node red.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fabianBuentello/Desktop/SurveyChallenge",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/css",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes"
+	],
+	"file_history":
+	[
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes/index.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/SurveyChallenge.sublime-project",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/config/database.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/config/index.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/package.json",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/models/index.js",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/index.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/appRoutes.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/app.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/SurveyCtrl.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/home.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/admin.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/MainCtrl.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/services/SurveyService.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes/users.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/.bowerrc",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/bower.json",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/index.ejs",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/config/config.json",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/models/user.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/.gitignore",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/Procfile",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/README.md",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Cartfile",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/NewOrderController.swift",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/MDTimePickerDialog.m",
+		"/Users/fabianBuentello/Desktop/Material-Controls-For-iOS/iOSUILib/iOSUILib/Calendar/MDTimePickerDialog.m",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/OrderCustomCell.swift",
+		"/Users/fabianBuentello/Desktop/timePickerGold.m",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/MDTimePickerDialog.h",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/MDTimePickerDialog.swift",
+		"/Users/fabianBuentello/Desktop/Material-Controls-For-iOS/iOSUILibDemo/TimePickerDialogViewController.m",
+		"/Users/fabianBuentello/Desktop/Material-Controls-For-iOS/iOSUILibDemo/TimePickerDialogViewController.h",
+		"/Users/fabianBuentello/Desktop/testNewOrder.swift",
+		"/Users/fabianBuentello/Desktop/Sources/EZSwiftExtensions.swift",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/myUserClass.swift",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty.sublime-project",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/.gitignore",
+		"/Users/fabianBuentello/scripts/fdev",
+		"/Users/fabianBuentello/scripts/fScript.sh",
+		"/Users/fabianBuentello/Desktop/newOrder.swift",
+		"/Users/fabianBuentello/Desktop/braxtonTodo.md",
+		"/Users/fabianBuentello/Desktop/braxtonTodo.txt",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/DigitsKit.framework/DigitsKit",
+		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Fabric.framework/README",
+		"/Users/fabianBuentello/Desktop/MiotyApp/Mioty/Podfile",
+		"/Users/fabianBuentello/Desktop/mehdi/index.html",
+		"/Users/fabianBuentello/Desktop/mehdi/README.md",
+		"/Users/fabianBuentello/Desktop/mehdi/jsonHardcoded.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/tutoringTime.txt",
+		"/Users/fabianBuentello/Desktop/mehdi/jsonAPI.js",
+		"/Users/fabianBuentello/Desktop/mehdi/.gitignore",
+		"/Users/fabianBuentello/Desktop/mehdi/jsonHardcoded_finished.js",
+		"/Users/fabianBuentello/Desktop/mehdi/jsonAPI_finished.js",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/JSC.sublime-build",
+		"/Users/fabianBuentello/Desktop/mehdi/mehdiNotes.txt",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/fabianBuentello/Desktop/mehdiNotes.txt",
+		"/Users/fabianBuentello/scripts/finder",
+		"/Users/fabianBuentello/scripts/fjazzy",
+		"/Users/fabianBuentello/DesktopStuff/repos/Android/NRInject/app/src/main/AndroidManifest.xml",
+		"/Users/fabianBuentello/Desktop/EZSwiftExtensions/Cartfile",
+		"/Users/fabianBuentello/Desktop/myUserClass.swift",
+		"/Users/fabianBuentello/Desktop/loginscreenSnippet.java",
+		"/Users/fabianBuentello/Desktop/mehdiQuestions.txt",
+		"/Users/fabianBuentello/Desktop/MiotyApp/Mioty/Mioty/SignUpViewController.swift",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/env/development.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/controllers/organizer.server.controller.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/package.json",
+		"/Users/fabianBuentello/Desktop/NotesForJamone.txt",
+		"/Users/fabianBuentello/Desktop/codeREDToken.txt",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/controllers/attendee.server.controller.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/models/attendees.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/env/production.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/controllers/errors.server.controller.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/routes.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/views/email/confirmation.html",
+		"/Users/fabianBuentello/Desktop/CodeREDPackageVersions.txt",
+		"/Users/fabianBuentello/Desktop/CodeRED-Mongo_Export.json",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/sendMassEmail.js",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/express.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/.gitignore",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/views/email/accepted.html",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/config.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/logger.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/CodeRED_Project_BackEnd.sublime-project",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/CodeRED_FrontEnd.sublime-project",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/config.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/index.html",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/controllers/attendee.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/package.json",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/dist/scripts/scripts.49155a5d.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/views/attendees/create-attendee.html",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/CodeRED_Project_FrontEnd.sublime-project",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/dist/scripts/scripts.7ab445dd.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/CodeRED_Project.sublime-project",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/app.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/.gitignore",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/controllers/acceptedController.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/views/attendees/accepted-attendee.html",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/views/attendees/seeYouThere-attendee.html",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/services/attendees_service.js",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/convert_tabs_to_spaces.sublime-macro",
+		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm.sh",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/controllers/main.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/controllers/email.server.controller.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/logs/error-logs.log",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/logs/all-logs.log",
+		"/Users/fabianBuentello/scripts/mongoScripts/codeRED/findDuplicates.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/logs/attendee-logs.log",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/server.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/db.js",
+		"/Users/fabianBuentello/Downloads/text-B49AC28C87DB-1.txt",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/email.js",
+		"/Users/fabianBuentello/Desktop/hired.md",
+		"/Users/fabianBuentello/Desktop/CougarCSWorkshops.txt",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/fbuentello.website.io/dist/.git/MERGE_MSG",
+		"/Users/fabianBuentello/Desktop/hamzaTest/app.js",
+		"/Users/fabianBuentello/Desktop/hamzaTest/routes/users.js",
+		"/Users/fabianBuentello/Desktop/mean-tut/app.js",
+		"/Users/fabianBuentello/DesktopStuff/repos/github/fabyGithub/api/routes/nodeAction/sender_v1.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End",
+			".",
+			"<open folders>",
+			"/Users/fabianBuentello/DesktopStuff/repos/MachineLearning/NBA/data/bball_ref/**/*",
+			"/Users/fabianBuentello/Desktop/hello/node_modules/karma-phantomjs-launcher/node_modules/phantomjs/node_modules/request/node_modules",
+			"/Users/fabianBuentello/Desktop/hello/node_modules",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED-Fall-App/config/env",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED-Fall-App/config",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED-Fall-App/public",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED-Fall-App/config",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED-Fall-App/public/lib/bootstrap",
+			"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Theme - Frchis",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED-Fall-App/public/lib/bootstrap-material-design/less",
+			"/Users/fabianBuentello/Nitrous/awad/Resumator_2/app/views",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/public/modules",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/public/,-public/dist/,-node_modules",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/,-public/dist/,-node_modules",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/,-public/dist/",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/public",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/public/modules",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/,-node_modules/,-public/dist/",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/,-node_modules/",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/theotherguys/theotherguysio_v1/public",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo/app",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo/config",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo/app",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo/app/tests",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo/app",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/meanrepo/app",
+			"/Users/fabianBuentello/Desktop/codeRedInterface",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/codeRedInterface/app",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/Mioty-WWW/src",
+			"/Users/fabianBuentello/DesktopStuff/repos/Bitbucket/fabyAzure/mioty-faby",
+			"/Users/fabianBuentello/DesktopStuff/repos/github/Mioty-WWW/src/common/firebase/simpleLogin.spec.js",
+			"/Users/fabianBuentello/DesktopStuff/repos/Bitbucket/fbuentello_Mioty-Node",
+			"/Users/fabianBuentello/DesktopStuff/repos/Bitbucket/fbuentello_Mioty-Node/nodes/core/core",
+			"/Users/fabianBuentello/Desktop/nodeRed_MiotyNode/nodes",
+			"/common/firebase",
+			"firebase",
+			"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements",
+			"/Users/fabianBuentello/Desktop/jwt-node-express-master",
+			"/Users/fabianBuentello/Desktop/mioty-www/src/assets/svg",
+			"/Users/fabianBuentello/Desktop/finalMioty",
+			"/Users/fabianBuentello/Desktop/angularParse 2/app/usersvc.js",
+			"/Users/fabianBuentello/Desktop/angularParse 2/app/routes.js",
+			"/Users/fabianBuentello/Desktop/angularParse 2/bower_components",
+			"/Users/fabianBuentello/Desktop/angularParse 2/public/views/",
+			"/Users/fabianBuentello/Desktop/angularParse 2/views",
+			"/Users/fabianBuentello/Desktop/angularParse 2/views/",
+			"/Users/fabianBuentello/Desktop/angularParse/",
+			"/Users/fabianBuentello/Desktop/parse-angular/",
+			"/Users/fabianBuentello/Desktop/parse-angular-demo/",
+			"/Users/fabianBuentello/Desktop/dashboardnode/",
+			"/Users/fabianBuentello/Desktop/miotyNode/",
+			"/Users/fabianBuentello/Desktop/miotyNode/public/",
+			"/Users/fabianBuentello/Desktop/miotyNode/",
+			"/Users/fabianBuentello/Desktop/miotyNode/public/",
+			"/Users/fabianBuentello/Desktop/miotyNode/public/red",
+			"-/miotyNode/nodes/*",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inline",
+			"db",
+			"DB",
+			"db",
+			"cookieParser",
+			"bodyParser",
+			"cookieParser",
+			"logger",
+			"path",
+			"logger",
+			"debug",
+			"Nerd",
+			"nerd",
+			"nerds",
+			"Nerd",
+			"nerd",
+			"Nerd",
+			"nerd",
+			"Nerd",
+			"survey",
+			"nerd",
+			"Nerd",
+			"'Nerd",
+			"Most",
+			"nextPage",
+			"Selectors",
+			"page2TimeButton",
+			"page2TopOrangeView",
+			"tools",
+			"JavaScript",
+			"Javascript",
+			"definitely",
+			"side",
+			"sidwa",
+			"backgroundBlurView",
+			"blurEffectView",
+			"blurEffect",
+			"alpha",
+			"self.view",
+			"[self removeFromSuperview];",
+			"getPage0Data",
+			"()\n",
+			"getPage0Data",
+			"reloadSections",
+			"DELIVERY_MINUTE",
+			"00",
+			"DELIVERY_MINUTE",
+			"currentHour",
+			"currentTime",
+			"DELIVERY_",
+			"cell.",
+			"cell",
+			"bottomBtn",
+			"print",
+			"\n		",
+			"print",
+			"viewTitle",
+			"btnTitle",
+			"cancelOrder",
+			"myNavBarView",
+			"				navController.setNavigationBarHidden(navigationController?.navigationBarHidden == false, animated: true) //or animated: false\n",
+			"navController.popViewControllerAnimated(true)",
+			"myNavBar",
+			"4",
+			"navigation",
+			"\"Up\"",
+			"bottomBtn.titleLabel?.text",
+			"navTopRightBtn.title = \"Up\"",
+			"cart",
+			"[popupHolder",
+			"CGRectMake",
+			"kClockHeight",
+			"_labelTimeModeAM.text",
+			"_labelTimeModeAM",
+			"_titleColor",
+			"setTitleColor",
+			"setTitle",
+			"@\"#",
+			"rotateHand",
+			"centerInvisibleIndexCirclePoint.x",
+			"[UIBezierPath bezierPath]",
+			"mdHeight",
+			"radius:kSmallCircleRadius\n                               startAngle:0\n                                 endAngle:TO_RADIANS(360)\n                                clockwise:NO",
+			"kClockHeight",
+			"kHeaderHeight + clockX",
+			"kHeaderHeight + \n                                               clockX,",
+			"kHeaderHeight +\n                                               clockX,",
+			"clockX",
+			"(popupHolder.mdWidth - kClockHeight) / 2",
+			"kHeaderHeight + (popupHolder.mdWidth - kClockHeight) / 2",
+			"kHeaderHeight + clockX",
+			"(popupHolder.mdWidth - kClockHeight) / 2",
+			"i",
+			"bt",
+			"hourBtn",
+			"number",
+			"x_point =",
+			"x_point",
+			"float",
+			"x_point = _clockHour.mdWidth / 2 + sin(z) *multiplyer;\n        y_point = _clockHour.mdHeight / 2 - cos(z) *multiplyer;",
+			"x_point",
+			"[bt set",
+			"[bt setTitleColor:_titleColor forState:UIControlStateNormal];",
+			"y_point = _clockHour.mdHeight / 2 - cos(z) *multiplyer;",
+			"x_point = _clockHour.mdWidth / 2 + sin(z) *multiplyer;",
+			"[bt.titleLabel setFont:[UIFontHelper robotoFontOfSize:15.0]];",
+			"[bt.layer setCornerRadius:bt.frame.size.width / 2];",
+			"[bt setBackgroundColor:[UIColor clearColor]];",
+			"[bt setTag:(110 + i)];",
+			"[bt setFrame:CGRectMake(0, 0, kHourItemSize, kHourItemSize)];",
+			"UIButton *bt = [UIButton buttonWithType:UIButtonTypeCustom];",
+			"double z = stepAngle * i;",
+			"//everything after this",
+			"[self bringSubviewToFront:bt];",
+			"[bt.titleLabel setTextAlignment:NSTextAlignmentCenter];",
+			"[bt setCenter:CGPointMake(x_point, y_point)];",
+			"[_clockHour addSubview:bt];",
+			"[bt setTitle:[NSString stringWithFormat:@\"%d\", i]\n            forState:UIControlStateNormal];",
+			"y_point = _clockHour.mdHeight / 2 -\n        cos(z) *multiplyer;",
+			"x_point = _clockHour.mdWidth / 2 +\n        sin(z) *multiplyer;",
+			"[bt.titleLabel setFont:[UIFontHelper robotoFontOfSize:15.0]];",
+			"[bt setBackgroundColor:[UIColor clearColor]];\n        [bt.layer setCornerRadius:bt.frame.size.width / 2];",
+			"UIButton *bt = [UIButton buttonWithType:UIButtonTypeCustom];\n        [bt setFrame:CGRectMake(0, 0, kHourItemSize, kHourItemSize)];",
+			"stepAngle * i",
+			"_clockHour.mdWidth / 2",
+			"sineMultiplyer",
+			"(kClockHeight / 2 - kHourItemSize * 2.0 / 3.0);",
+			"(kClockHeight / 2 - kHourItemSize * 2.0 / 3.0)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"*\",",
+			"'",
+			"",
+			"&",
+			",\\s\\d{4}",
+			"\\n",
+			"",
+			"\\n\\nREPLACE",
+			"\\n\\n[\"description\"",
+			",\\n[\"",
+			",\\n[\"09",
+			"[\"15",
+			"\"\\]",
+			"",
+			"\\n\\n[[\"h",
+			"\\n",
+			"",
+			"\\n",
+			"]]",
+			",",
+			"Duplicates",
+			"data.Yr",
+			"attendee",
+			"Attendee",
+			"Attendees",
+			"#333333",
+			"maps.LatLng",
+			"\\n",
+			"#5E5E5E",
+			"#9E9E9E",
+			"#607D8B",
+			"#ff9900",
+			"",
+			"[14, 41, 59]",
+			"[22, 64, 91]",
+			"[49, 75, 91]",
+			"Frchis",
+			"",
+			"@liteRed",
+			"@white2",
+			"@grey2",
+			"@grey1",
+			"@white1",
+			"@peach",
+			"@electricBlue",
+			"@litePurple",
+			"@grey0",
+			"@white",
+			"conf",
+			"f",
+			"",
+			"methods.flush()",
+			"#ccc",
+			"#eeeeee",
+			"User",
+			"user",
+			"carouselSlides"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/views/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							],
+							[
+								231,
+								231
+							],
+							[
+								263,
+								263
+							],
+							[
+								284,
+								284
+							],
+							[
+								397,
+								397
+							],
+							[
+								427,
+								427
+							],
+							[
+								459,
+								459
+							],
+							[
+								480,
+								480
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/css/style.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 341.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/localServer.sublime-build",
+	"project": "SurveyChallenge.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"myuser",
+				"Mioty/myUserClass.swift"
+			],
+			[
+				"new",
+				"Mioty/NewOrderController.swift"
+			],
+			[
+				"send",
+				"sendMassEmail.js"
+			],
+			[
+				"deve",
+				"config/env/development.js"
+			],
+			[
+				"rout",
+				"config/routes.js"
+			],
+			[
+				"ex",
+				"config/express.js"
+			],
+			[
+				"atten",
+				"app/models/attendees.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"por",
+				"config/env/production.js"
+			],
+			[
+				"routes",
+				"config/routes.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"produc",
+				"config/env/production.js"
+			],
+			[
+				"config",
+				"config/config.js"
+			],
+			[
+				"grunt",
+				"hello/Gruntfile.js"
+			],
+			[
+				"all.",
+				"config/env/all.js"
+			],
+			[
+				"base",
+				"material-master/app/css/base.css"
+			],
+			[
+				"fabian",
+				"material-master/app/less/fabian.less"
+			],
+			[
+				"index",
+				"fbuentello.github.io/index.html"
+			],
+			[
+				"attend",
+				"public/modules/attendees/controllers/attendees.client.controller.js"
+			],
+			[
+				"create",
+				"public/modules/attendees/views/create-attendee.client.view.html"
+			],
+			[
+				"dashboard",
+				"public/modules/users/controllers/dashboard.client.controller.js"
+			],
+			[
+				"all",
+				"config/env/all.js"
+			],
+			[
+				"button",
+				"public/CodeRedAssets/less/components/buttons.less"
+			],
+			[
+				"main",
+				"public/CodeRedAssets/less/main.less"
+			],
+			[
+				"dash",
+				"public/modules/users/views/dashboard.client.view.html"
+			],
+			[
+				"das",
+				"public/modules/users/views/dashboard.client.view.html"
+			],
+			[
+				"varia",
+				"public/CodeRedAssets/less/variables.less"
+			],
+			[
+				"codere",
+				"public/CodeRedAssets/less/codrops/forms/codrops_Form.less"
+			],
+			[
+				"core",
+				"public/modules/core/css/core.less"
+			],
+			[
+				"header",
+				"public/modules/core/views/header.client.view.html"
+			],
+			[
+				"create-",
+				"public/modules/attendees/views/create-attendee.client.view.html"
+			],
+			[
+				"layo",
+				"app/views/layout.server.view.html"
+			],
+			[
+				"layout",
+				"app/views/layout.server.view.html"
+			],
+			[
+				"newatt",
+				"public/modules/attendees/views/view-attendee.client.view.html"
+			],
+			[
+				"vari",
+				"public/CodeRedAssets/less/variables.less"
+			],
+			[
+				"var",
+				"public/CodeRedAssets/less/variables.less"
+			],
+			[
+				"_mix",
+				"public/lib/bootstrap-material-design/less/_mixins-fullpalette.less"
+			],
+			[
+				"_colo",
+				"public/lib/bootstrap-material-design/less/_colors.less"
+			],
+			[
+				"mixin",
+				"public/lib/bootstrap-material-design/less/_mixins.less"
+			],
+			[
+				"nav",
+				"public/lib/bootstrap/less/navbar.less"
+			],
+			[
+				"attende",
+				"public/modules/attendees/controllers/attendees.client.controller.js"
+			],
+			[
+				"atte",
+				"app/models/attendee.server.model.js"
+			],
+			[
+				"devel",
+				"config/env/development.js"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"mailer",
+				"final-exam/test/mailers/previews/object_mailer_preview.rb"
+			],
+			[
+				"seed",
+				"final-exam/db/seeds.rb"
+			],
+			[
+				"sche",
+				"final-exam/db/schema.rb"
+			],
+			[
+				"scem",
+				"final-exam/db/schema.rb"
+			],
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"static",
+				"app/controllers/static_controller.rb"
+			],
+			[
+				"develo",
+				"config/environments/development.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"edit",
+				"app/views/users/registrations/edit.html.erb"
+			],
+			[
+				"application",
+				"app/assets/stylesheets/qualifications.css.scss"
+			],
+			[
+				"application.css",
+				"app/assets/stylesheets/qualifications.css.scss"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"alli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applicaio",
+				"Resumator_2/app/views/layouts/application.html.erb"
+			],
+			[
+				"appl",
+				"Resumator_2/app/views/layouts/application.html.erb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"votes",
+				"app/controllers/votes_controller.rb"
+			],
+			[
+				"idea",
+				"app/models/idea.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"vote",
+				"app/models/vote.rb"
+			],
+			[
+				"panges",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"pages.h",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"settin",
+				"modules/users/controllers/settings.client.controller.js"
+			],
+			[
+				"connect",
+				"node_modules/connect-mongo/lib/connect-mongo.js"
+			],
+			[
+				"twit",
+				".tmp/styles/twitter.css"
+			],
+			[
+				"twitter",
+				".tmp/styles/twitter.css"
+			],
+			[
+				"ap",
+				"app/scripts/app.js"
+			],
+			[
+				"codered",
+				"app/scripts/services/codeRedServ.js"
+			],
+			[
+				"app.j",
+				"app/scripts/app.js"
+			],
+			[
+				"anima",
+				"app/styles/animation.css"
+			],
+			[
+				"anim",
+				".tmp/styles/animation.css"
+			],
+			[
+				"navc",
+				"app/scripts/controllers/navCtrl.js"
+			],
+			[
+				"authct",
+				"app/scripts/controllers/authCtrl.js"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"h",
+				"app/scripts/controllers/homeCtrl.js"
+			],
+			[
+				"cpvi",
+				"src/app/controlPanel/cpView/cpView.js"
+			],
+			[
+				"landing",
+				"src/app/landing/landing.less"
+			],
+			[
+				"firebase",
+				"src/common/firebase/firebase.utils.js"
+			],
+			[
+				"sidebar",
+				"src/app/controlPanel/cpView/sideBar/sideBar.js"
+			],
+			[
+				"nodemanager",
+				"src/common/services/nodeManager.js"
+			],
+			[
+				"nodedatama",
+				"src/common/services/nodeDataManager.js"
+			],
+			[
+				"ndm.ba",
+				"src/common/services/ndm.bak.js"
+			],
+			[
+				"firebase.ut",
+				"src/common/firebase/firebase.utils.js"
+			],
+			[
+				"nodedirect",
+				"src/common/directives/nodeDirective.js"
+			],
+			[
+				"childdirect",
+				"src/common/directives/childDirective.js"
+			],
+			[
+				"cpview",
+				"src/app/controlPanel/cpView/cpView.js"
+			],
+			[
+				"control",
+				"src/app/controlPanel/controlPanel.js"
+			],
+			[
+				"about",
+				"src/app/about/about.js"
+			],
+			[
+				"simplelog.s",
+				"src/common/firebase/simpleLogin.spec.js"
+			],
+			[
+				"config.spec",
+				"src/common/firebase/config.spec.js"
+			],
+			[
+				"app.spec",
+				"src/app/app.spec.js"
+			],
+			[
+				"uuid",
+				"src/common/services/uuid.js"
+			],
+			[
+				"node",
+				"src/common/services/nodeManager.js"
+			],
+			[
+				"nodedatamana",
+				"src/common/services/nodeDataManager.js"
+			],
+			[
+				"ndm.b",
+				"src/common/services/ndm.bak.js"
+			],
+			[
+				"childservice",
+				"src/common/services/childService.js"
+			],
+			[
+				"simplelog",
+				"src/common/firebase/simpleLogin.js"
+			],
+			[
+				"changeem",
+				"src/common/firebase/changeEmail.js"
+			],
+			[
+				"nodedirec",
+				"src/common/directives/nodeDirective.js"
+			],
+			[
+				"childd",
+				"src/common/directives/childDirective.js"
+			],
+			[
+				"headermod",
+				"src/app/header/headerModal/headerModal.js"
+			],
+			[
+				"cpvie",
+				"src/app/controlPanel/cpView/cpView.js"
+			],
+			[
+				"controlp",
+				"src/app/controlPanel/controlPanel.js"
+			],
+			[
+				"simplel",
+				"src/common/firebase/simpleLogin.spec.js"
+			],
+			[
+				"gener",
+				"fbuentello_Mioty-Server/routes/node/generate_v1.js"
+			],
+			[
+				"register",
+				"fbuentello_Mioty-Server/routes/node/register_v1.js"
+			],
+			[
+				"sender_",
+				"fbuentello_Mioty-Server/routes/nodeAction/sender_v1.js"
+			],
+			[
+				"config.json",
+				"development_config.json"
+			],
+			[
+				"sender",
+				"routes/sender_v1.js"
+			],
+			[
+				"mth",
+				"mTheme.m"
+			],
+			[
+				"confi",
+				"miotyRunner/Config.h"
+			],
+			[
+				"muse",
+				"mUser.m"
+			],
+			[
+				"mus",
+				"mUser.h"
+			],
+			[
+				"mio",
+				"MIOTY_MainTableViewController.m"
+			],
+			[
+				"",
+				"~/DesktopStuff/repos/xcode/miotyRunner/miotyRunner/miotyRunner/MIOTY_LogInViewController.m"
+			],
+			[
+				"login",
+				"MIOTY_LogInViewController.m"
+			],
+			[
+				"inject",
+				"routes/inject_v1.js"
+			],
+			[
+				"inj",
+				"routes/inject_v1.js"
+			],
+			[
+				"auth",
+				"routes/authenticate_v1.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"chat",
+				"public/chat.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"# TECHNOLOGY COLOPHON"
+			]
+		],
+		"width": 656.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

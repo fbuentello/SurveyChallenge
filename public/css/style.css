@@ -1,0 +1,238 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:200,500,700,800);
+img,
+legend {
+    border: 0
+}
+
+.codrops-icon:before,
+.input__label {
+    -webkit-font-smoothing: antialiased
+}
+
+.input--hideo,
+.input--hoshi,
+.input--juro,
+.input--kaede,
+svg:not(:root) {
+    overflow: hidden
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block
+}
+
+audio,
+canvas,
+video {
+    display: inline-block
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0
+}
+
+[hidden] {
+    display: none
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body,
+figure {
+    margin: 0
+}
+
+a:focus {
+    outline: dotted thin
+}
+
+.input__field:focus,
+a:active,
+a:hover {
+    outline: 0
+}
+
+h1 {
+    font-size: 2em;
+    margin: .67em 0
+}
+
+abbr[title] {
+    border-bottom: 1px dotted
+}
+
+b,
+strong {
+    font-weight: 700
+}
+
+dfn {
+    font-style: italic
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0
+}
+
+mark {
+    background: #ff0;
+    color: #000
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    font-size: 1em
+}
+
+pre {
+    white-space: pre-wrap
+}
+
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019"
+}
+
+small {
+    font-size: 80%
+}
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+sup {
+    top: -.5em
+}
+
+sub {
+    bottom: -.25em
+}
+
+legend {
+    padding: 0
+}
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;
+    font-size: 100%;
+    margin: 0
+}
+
+button,
+input {
+    line-height: normal
+}
+
+button,
+select {
+    text-transform: none
+}
+
+button,
+html input[type=button],
+input[type=reset],
+input[type=submit] {
+    -webkit-appearance: button;
+    cursor: pointer
+}
+
+button[disabled],
+html input[disabled] {
+    cursor: default
+}
+
+/*input[type=checkbox],
+input[type=radio] {
+    box-sizing: border-box;
+    padding: 0
+}*/
+
+input[type=search] {
+    -webkit-appearance: textfield;
+    box-sizing: content-box
+}
+
+input[type=search]::-webkit-search-cancel-button,
+input[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0
+}
+
+textarea {
+    overflow: auto;
+    vertical-align: top
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+@font-face {
+    font-weight: 400;
+    font-style: normal;
+    font-family: codropsicons;
+    src: url(../fonts/codropsicons/codropsicons.eot);
+    src: url(../fonts/codropsicons/codropsicons.eot?#iefix) format("embedded-opentype"), url(../fonts/codropsicons/codropsicons.woff) format("woff"), url(../fonts/codropsicons/codropsicons.ttf) format("truetype"), url(../fonts/codropsicons/codropsicons.svg#codropsicons) format("svg")
+}
+
+#surveySection .surveySubmitBtn,
+#adminSection .surveySubmitBtn {
+    background-color: #87d955
+}
+
+.footer,
+.header,
+.marketing {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.footer {
+    padding-top: 19px;
+    color: #777
+}
+
+.radio input[type=radio]:checked ~ .circle {
+    border-color: #84d65c;
+    border-top-color: rgb(132, 214, 92);
+    border-right-color: rgb(132, 214, 92);
+    border-bottom-color: rgb(132, 214, 92);
+    border-left-color: rgb(132, 214, 92);
+}
+
+.radio input[type=radio]:checked ~ .check {
+    background-color: #6152bc;
+}
