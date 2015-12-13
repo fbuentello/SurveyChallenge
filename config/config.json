@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "b907f8f6c3eb11",
+    "password": "ebd9d53b",
+    "database": "database_development",
+    "host": "mysql://b907f8f6c3eb11:ebd9d53b@us-cdbr-iron-east-03.cleardb.net/heroku_b430b97b825ed4f?reconnect=true",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "use_env_variable": "CLEARDB_DATABASE_URL"
+  }
+}

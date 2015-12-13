@@ -8,6 +8,7 @@ var bodyParser = require('body-parser');
 var routes = require('./routes/index');
 var users = require('./routes/users');
 var debug = require('debug');
+var db = require('./models');
 var app = express();
 
 // view engine setup
@@ -58,6 +59,9 @@ app.use(function(err, req, res, next) {
 
 app.set('port', process.env.PORT || 3000);
 
-var server = app.listen(app.get('port'), function() {
-  console.log('Express server listening on port ' + server.address().port);
+db.sequelize.sync().then(function() {
+  var server = app.listen(app.get('port'), function() {
+      console.log('Express server listening on port ' + server.address().port);
+    });
+
 });

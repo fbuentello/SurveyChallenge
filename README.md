@@ -16,5 +16,11 @@ Provide a clear README with instructions on how to setup and run the app.
 Create a github.com repository with the app that we can pull from and test.
 
 
+#Steps
 
 [install heroku toolbelt](https://toolbelt.heroku.com/)
+$ npm install
+$ heroku create
+$ git push heroku master
+$ heroku ps:scale web=1
+$ heroku open
