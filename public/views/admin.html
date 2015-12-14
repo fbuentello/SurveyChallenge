@@ -1,6 +1,7 @@
 <section id="adminSection" data-ng-controller="adminController as ac" ng-init="init()">
 	<div class="well page" ng-show="!currentUser">
 		<form class="form-signin"name="form"ng-submit="login(form)"novalidate>
+			<p style="color:red" ng-show="error" >{{error}}</p>
 			<div class="form-group">
 				<div class="col-xs-12">
 					<label class=" col-xs-2 control-label">username</label>

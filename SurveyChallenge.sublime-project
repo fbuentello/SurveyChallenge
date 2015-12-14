@@ -16,7 +16,8 @@
 				"__pycache__",
 				".*",
 				"data/db",
-				"libs"
+				"libs",
+				"css"
 			],
 			"path": "./"
 		}

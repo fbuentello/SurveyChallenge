@@ -14,6 +14,7 @@ module.exports = {
 	    defaultUser: {
 	    	username: 'sumoMe',
             password: 'test'
-	    }
+	    },
+	    serverKey: 'xSlD5zGlZdKSijW5r0m3'
 	}
 }

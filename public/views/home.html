@@ -2,7 +2,8 @@
 	<div class="row">
 		<div class="col-xs-8 col-xs-offset-2" style="text-align:left;">
 			<form name="newSurvey" class="well page surveyForm" data-ng-submit="submitAnswer()" novalidate>
-				<fieldset>
+				<p style="color:red">{{errorMsg}}</p>
+				<fieldset ng-show="survey">
 					<div class="form-group">
 						<h2 style="color:#6152bc">{{survey.question}}</h2>
 

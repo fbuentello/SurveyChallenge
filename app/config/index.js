@@ -10,11 +10,13 @@ if (!global.hasOwnProperty('db')) {
 	global.db = {
 		Sequelize: Sequelize,
 		sequelize: sequelize,
-		Question: Question
-			// add your other models here
+		Question: Question,
+		Session: sequelize.define('Session', { session: Sequelize.STRING }),
+		development: dev
 	};
 
-	// global.db.Question.belongsTo(global.db.User);
+	global.db.Question.hasMany(global.db.Session);
+	global.db.Session.belongsTo(global.db.Question);
 }
 
 module.exports = global.db
