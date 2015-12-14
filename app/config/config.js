@@ -10,6 +10,10 @@ module.exports = {
 	            maxConnections: 1,
 	            maxIdleTime: 10
 	        }
+	    },
+	    defaultUser: {
+	    	username: 'sumoMe',
+            password: 'test'
 	    }
 	}
 }

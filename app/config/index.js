@@ -1,22 +1,20 @@
 if (!global.hasOwnProperty('db')) {
-    var Sequelize = require('sequelize');
-    var config = require('./database');
-    var dev = config.development;
+	var Sequelize = require('sequelize');
+	var config = require('./config');
+	var dev = config.development;
+	var bCrypt = require('bcrypt-nodejs');
 
+	var sequelize = new Sequelize(dev.host, dev.options);
+	var Question = sequelize.import('../models/question.model');
 
-    var sequelize = new Sequelize(dev.host, dev.options);
+	global.db = {
+		Sequelize: Sequelize,
+		sequelize: sequelize,
+		Question: Question
+			// add your other models here
+	};
 
-    global.db = {
-        Sequelize: Sequelize,
-        sequelize: sequelize,
-        User: sequelize.import('../models/user')
-            // add your other models here
-    };
-
-    /*
-      Associations can be defined here. E.g. like this:
-      global.db.User.hasMany(global.db.SomethingElse)
-    */
+	// global.db.Question.belongsTo(global.db.User);
 }
 
 module.exports = global.db

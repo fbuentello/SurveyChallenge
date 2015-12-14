@@ -1,6 +1,6 @@
-Create a web app written in Node.JS using an Express based framework, SequelizeJS, and MySQL.
+DONE: Create a web app written in Node.JS using an Express based framework, SequelizeJS, and MySQL.
 
-Use NPM to declare all dependencies so that we can run it in a test environment.
+DONE: Use NPM to declare all dependencies so that we can run it in a test environment.
 
 The app should allow an admin to enter survey questions with multiple choice answers.
 
@@ -14,6 +14,7 @@ Make sure the UI is mobile browser friendly.
 
 Provide a clear README with instructions on how to setup and run the app.
 Create a github.com repository with the app that we can pull from and test.
+
 
 
 #Steps

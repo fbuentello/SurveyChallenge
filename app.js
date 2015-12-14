@@ -2,7 +2,7 @@
 var express = require('express');
 var app = express(); // create our app w/ express
 var port = process.env.PORT || 8080; // set the port
-// var db = require('./config'); // load the database config
+var db = require('./app/config'); // load the database config
 var morgan = require('morgan');
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
@@ -22,7 +22,6 @@ app.use(bodyParser.json({
 
 app.use(methodOverride('X-HTTP-Method-Override')); // override with the X-HTTP-Method-Override header in the request
 
-
 // routes ======================================================================
 require('./app/routes')(app);
 
@@ -31,10 +30,12 @@ require('./app/routes')(app);
 
 app.set('port', process.env.PORT || 3000);
 
-// db.sequelize.sync().then(function() {
+db.sequelize.sync().then(function() {
+
+
 
 var server = app.listen(app.get('port'), function() {
     console.log('Express server listening on port ' + server.address().port);
 });
 
-// });
+});

@@ -23,12 +23,12 @@ angular.module('SurveyApp').controller('adminController', ['$scope', 'Survey', '
 
 		$scope.init = function() {
 			$scope.newQuestion = {
-				question: 'What is your favorite scary movie?',
+				question: '',
 				answers: {
-					a: 'Scary Movie',
-					b: 'Halloween',
-					c: 'Friday the 13th',
-					d: 'Nightmare on Elm Street'
+					a: '',
+					b: '',
+					c: '',
+					d: ''
 				}
 			};
 
