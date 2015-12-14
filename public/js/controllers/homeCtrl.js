@@ -7,6 +7,8 @@ angular.module('SurveyApp').controller('homeController', ['$scope','Survey',
 		});
 	};
 
+
+
 	$scope.submitAnswer = function() {
 		Survey.submitAnswer($scope.survey).then(function(res) {
 			console.log(res);

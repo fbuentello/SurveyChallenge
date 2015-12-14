@@ -10,7 +10,7 @@ angular.module('SurveyApp').factory('Survey', ['$http',function($http) {
 				return $http.post('/api/survey', question);
 			},
 			submitAnswer : function(surveyData) {
-				return $http.post('/api/survey/submit', surveyData);
+				return $http.post('/api/survey/submitAnswer', surveyData);
 			}
 		}
 	}]);
