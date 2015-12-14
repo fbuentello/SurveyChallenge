@@ -3,8 +3,8 @@ angular.module('SurveyApp').controller('adminController', ['$scope', 'Survey', '
 		$scope.currentUser = Auth.currentUser();
 
 		$scope.user = {
-			username: 'sumoMe',
-			password: 'test'
+			username: '',
+			password: ''
 		};
 
 		$scope.login = function(form) {
