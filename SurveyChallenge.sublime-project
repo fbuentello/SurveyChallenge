@@ -5,8 +5,8 @@
 			"file_exclude_patterns":
 			[
 				".*",
-				"*.md",
-				"*.json"
+				// "*.md",
+				// "*.json"
 
 			],
 			"folder_exclude_patterns":

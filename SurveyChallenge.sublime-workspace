@@ -4,8 +4,48 @@
 		"selected_items":
 		[
 			[
+				"question",
+				"questionIDs"
+			],
+			[
+				"sess",
+				"sessions〔argument〕"
+			],
+			[
+				"user",
+				"usertoken"
+			],
+			[
+				"sub",
+				"submitted"
+			],
+			[
+				"updat",
+				"updateValues〔variable〕"
+			],
+			[
+				"answer",
+				"answer1"
+			],
+			[
+				"defa",
+				"defaultUser〔variable〕"
+			],
+			[
+				"requ",
+				"require〔function〕"
+			],
+			[
+				"ng-in",
+				"ng-init	AngularJS"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
 				"background",
-				"backgroundClock"
+				"background-color: 〔property〕"
 			],
 			[
 				"TIME_",
@@ -474,67 +514,11 @@
 			[
 				"act",
 				"activateSrc"
-			],
-			[
-				"stock",
-				"stock_price"
-			],
-			[
-				"plot",
-				"plot_df"
-			],
-			[
-				"sp500_p",
-				"sp500_p_change"
-			],
-			[
-				"starting",
-				"starting_stock_value"
-			],
-			[
-				"sp",
-				"sp500_value"
-			],
-			[
-				"start",
-				"starting_sp500_value"
-			],
-			[
-				"sp500",
-				"sp500_value"
-			],
-			[
-				"try",
-				"try	Try/Except"
-			],
-			[
-				"ng-cl",
-				"ng-click	AngularJS"
-			],
-			[
-				"decoded",
-				"decodedToken"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "public/views/home.html",
-			"settings":
-			{
-				"buffer_size": 3379,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/css/style.css",
-			"settings":
-			{
-				"buffer_size": 26,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -544,16 +528,20 @@
 	"command_palette":
 	{
 		"height": 400.0,
-		"last_filter": "",
+		"last_filter": "text",
 		"selected_items":
 		[
 			[
-				"javascr",
-				"Set Syntax: JavaScript"
-			],
-			[
 				"text",
 				"Text Pastry: From 1 To X"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"swift",
@@ -690,10 +678,6 @@
 			[
 				"jav",
 				"Set Syntax: JavaScript"
-			],
-			[
-				"convert",
-				"Indentation: Convert to Tabs"
 			],
 			[
 				"pyt",
@@ -984,7 +968,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 707.0
+		"width": 754.0
 	},
 	"console":
 	{
@@ -1022,30 +1006,54 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fabianBuentello/Desktop/SurveyChallenge",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/css",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes"
+		"/Users/fabianBuentello/Desktop/SurveyChallenge"
 	],
 	"file_history":
 	[
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes/index.js",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/app.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/SurveyChallenge.sublime-project",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/README.md",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/homeCtrl.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/home.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/routes/question.route.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/controllers/question.controller.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/adminCtrl.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/services/AuthService.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/services/surveyService.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/config/auth.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/routes/index.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/config/index.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/models/question.model.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/models/useranswers.model.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/admin.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/package.json",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/config/config.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/.gitignore",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/index.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/config/login.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/services/SessionService.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/routes/users.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/config/passport.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/controllers/survey.controller.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/controllers/user.controller.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/models/question.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/routes/survey.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/models/user.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/css/style.css",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/app/controllers/user.server.controller.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/controllers/survey.server.controller.js",
+		"/Users/fabianBuentello/Desktop/node-todo/public/index.html",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/app.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/appRoutes.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/MainCtrl.js",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/css/vendor.css",
+		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes/index.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/config/database.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/config/index.js",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/package.json",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/models/index.js",
 		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
 		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/index.html",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/appRoutes.js",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/app.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/SurveyCtrl.js",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/home.html",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/admin.html",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/controllers/MainCtrl.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/js/services/SurveyService.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/routes/users.js",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/.bowerrc",
@@ -1053,9 +1061,7 @@
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/public/views/index.ejs",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/config/config.json",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/models/user.js",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/.gitignore",
 		"/Users/fabianBuentello/Desktop/SurveyChallenge/Procfile",
-		"/Users/fabianBuentello/Desktop/SurveyChallenge/README.md",
 		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Cartfile",
 		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/NewOrderController.swift",
 		"/Users/fabianBuentello/DesktopStuff/repos/xcode/Mioty/Mioty/MDTimePickerDialog.m",
@@ -1131,33 +1137,7 @@
 		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/dist/scripts/scripts.49155a5d.js",
 		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/views/attendees/create-attendee.html",
 		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/CodeRED_Project_FrontEnd.sublime-project",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/dist/scripts/scripts.7ab445dd.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/CodeRED_Project.sublime-project",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/app.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/.gitignore",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/controllers/acceptedController.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/views/attendees/accepted-attendee.html",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/views/attendees/seeYouThere-attendee.html",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/services/attendees_service.js",
-		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/User/convert_tabs_to_spaces.sublime-macro",
-		"/Users/fabianBuentello/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm.sh",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/app/scripts/controllers/main.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/app/controllers/email.server.controller.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/logs/error-logs.log",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/logs/all-logs.log",
-		"/Users/fabianBuentello/scripts/mongoScripts/codeRED/findDuplicates.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/logs/attendee-logs.log",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/server.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/db.js",
-		"/Users/fabianBuentello/Downloads/text-B49AC28C87DB-1.txt",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End/config/email.js",
-		"/Users/fabianBuentello/Desktop/hired.md",
-		"/Users/fabianBuentello/Desktop/CougarCSWorkshops.txt",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/fbuentello.website.io/dist/.git/MERGE_MSG",
-		"/Users/fabianBuentello/Desktop/hamzaTest/app.js",
-		"/Users/fabianBuentello/Desktop/hamzaTest/routes/users.js",
-		"/Users/fabianBuentello/Desktop/mean-tut/app.js",
-		"/Users/fabianBuentello/DesktopStuff/repos/github/fabyGithub/api/routes/nodeAction/sender_v1.js"
+		"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/CodeRED-Fall-App-FE/dist/scripts/scripts.7ab445dd.js"
 	],
 	"find":
 	{
@@ -1168,6 +1148,9 @@
 		"height": 113.0,
 		"where_history":
 		[
+			"/Users/fabianBuentello/Desktop/SurveyChallenge/app",
+			"/Users/fabianBuentello/Desktop/SurveyChallenge/public",
+			"/Users/fabianBuentello/Desktop/SurveyChallenge/app",
 			"/Users/fabianBuentello/DesktopStuff/repos/github/CodeRED/Back-End",
 			".",
 			"<open folders>",
@@ -1236,134 +1219,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"inline",
-			"db",
-			"DB",
-			"db",
-			"cookieParser",
-			"bodyParser",
-			"cookieParser",
-			"logger",
-			"path",
-			"logger",
-			"debug",
-			"Nerd",
-			"nerd",
-			"nerds",
-			"Nerd",
-			"nerd",
-			"Nerd",
-			"nerd",
-			"Nerd",
+			"admin",
+			"this",
+			"WHERE",
+			"where",
+			"replace(/\"/g,'')",
+			"UserToken",
+			"usertoken",
+			"decodedToken",
+			"UserToken",
+			"decodedTokenFunc",
+			"questions",
+			"sessions",
+			"`",
+			"verify",
+			"create",
+			"Question",
+			"console.log(",
+			"UserToken",
+			"header",
+			"defaultUser",
+			"token",
+			"body",
+			"UserToken",
+			"userToken",
+			"body",
+			"surveyToken",
+			"$http",
+			"console",
+			"sequelize",
+			"answers",
+			"user",
+			"attendee",
+			"Attendee",
+			":",
+			"questionAnswer",
+			"attendee",
+			"Attendee",
+			"checked=\"\"",
+			"value=\"answer",
+			"value=\"{{survey.",
+			"$index",
+			"name=\"sample1\"",
+			"answer1",
+			"STRING",
+			"answer",
+			"obj",
+			"false",
+			"DataTypes",
+			"STRING",
+			"console",
+			"Count:",
+			"defaultValue",
+			"obj",
+			"answer",
+			" obj.",
+			"answer",
+			"question",
 			"survey",
-			"nerd",
-			"Nerd",
-			"'Nerd",
-			"Most",
-			"nextPage",
-			"Selectors",
-			"page2TimeButton",
-			"page2TopOrangeView",
-			"tools",
-			"JavaScript",
-			"Javascript",
-			"definitely",
-			"side",
-			"sidwa",
-			"backgroundBlurView",
-			"blurEffectView",
-			"blurEffect",
-			"alpha",
-			"self.view",
-			"[self removeFromSuperview];",
-			"getPage0Data",
-			"()\n",
-			"getPage0Data",
-			"reloadSections",
-			"DELIVERY_MINUTE",
-			"00",
-			"DELIVERY_MINUTE",
-			"currentHour",
-			"currentTime",
-			"DELIVERY_",
-			"cell.",
-			"cell",
-			"bottomBtn",
-			"print",
-			"\n		",
-			"print",
-			"viewTitle",
-			"btnTitle",
-			"cancelOrder",
-			"myNavBarView",
-			"				navController.setNavigationBarHidden(navigationController?.navigationBarHidden == false, animated: true) //or animated: false\n",
-			"navController.popViewControllerAnimated(true)",
-			"myNavBar",
-			"4",
-			"navigation",
-			"\"Up\"",
-			"bottomBtn.titleLabel?.text",
-			"navTopRightBtn.title = \"Up\"",
-			"cart",
-			"[popupHolder",
-			"CGRectMake",
-			"kClockHeight",
-			"_labelTimeModeAM.text",
-			"_labelTimeModeAM",
-			"_titleColor",
-			"setTitleColor",
-			"setTitle",
-			"@\"#",
-			"rotateHand",
-			"centerInvisibleIndexCirclePoint.x",
-			"[UIBezierPath bezierPath]",
-			"mdHeight",
-			"radius:kSmallCircleRadius\n                               startAngle:0\n                                 endAngle:TO_RADIANS(360)\n                                clockwise:NO",
-			"kClockHeight",
-			"kHeaderHeight + clockX",
-			"kHeaderHeight + \n                                               clockX,",
-			"kHeaderHeight +\n                                               clockX,",
-			"clockX",
-			"(popupHolder.mdWidth - kClockHeight) / 2",
-			"kHeaderHeight + (popupHolder.mdWidth - kClockHeight) / 2",
-			"kHeaderHeight + clockX",
-			"(popupHolder.mdWidth - kClockHeight) / 2",
-			"i",
-			"bt",
-			"hourBtn",
-			"number",
-			"x_point =",
-			"x_point",
-			"float",
-			"x_point = _clockHour.mdWidth / 2 + sin(z) *multiplyer;\n        y_point = _clockHour.mdHeight / 2 - cos(z) *multiplyer;",
-			"x_point",
-			"[bt set",
-			"[bt setTitleColor:_titleColor forState:UIControlStateNormal];",
-			"y_point = _clockHour.mdHeight / 2 - cos(z) *multiplyer;",
-			"x_point = _clockHour.mdWidth / 2 + sin(z) *multiplyer;",
-			"[bt.titleLabel setFont:[UIFontHelper robotoFontOfSize:15.0]];",
-			"[bt.layer setCornerRadius:bt.frame.size.width / 2];",
-			"[bt setBackgroundColor:[UIColor clearColor]];",
-			"[bt setTag:(110 + i)];",
-			"[bt setFrame:CGRectMake(0, 0, kHourItemSize, kHourItemSize)];",
-			"UIButton *bt = [UIButton buttonWithType:UIButtonTypeCustom];",
-			"double z = stepAngle * i;",
-			"//everything after this",
-			"[self bringSubviewToFront:bt];",
-			"[bt.titleLabel setTextAlignment:NSTextAlignmentCenter];",
-			"[bt setCenter:CGPointMake(x_point, y_point)];",
-			"[_clockHour addSubview:bt];",
-			"[bt setTitle:[NSString stringWithFormat:@\"%d\", i]\n            forState:UIControlStateNormal];",
-			"y_point = _clockHour.mdHeight / 2 -\n        cos(z) *multiplyer;",
-			"x_point = _clockHour.mdWidth / 2 +\n        sin(z) *multiplyer;",
-			"[bt.titleLabel setFont:[UIFontHelper robotoFontOfSize:15.0]];",
-			"[bt setBackgroundColor:[UIColor clearColor]];\n        [bt.layer setCornerRadius:bt.frame.size.width / 2];",
-			"UIButton *bt = [UIButton buttonWithType:UIButtonTypeCustom];\n        [bt setFrame:CGRectMake(0, 0, kHourItemSize, kHourItemSize)];",
-			"stepAngle * i",
-			"_clockHour.mdWidth / 2",
-			"sineMultiplyer",
-			"(kClockHeight / 2 - kHourItemSize * 2.0 / 3.0);",
-			"(kClockHeight / 2 - kHourItemSize * 2.0 / 3.0)"
+			"Survey",
+			"db",
+			"survey",
+			"Sequelize.STRING",
+			"Sequelize.",
+			"Sequelize",
+			"DataTypes.INTEGER",
+			"allowNull",
+			"DataTypes.STRING",
+			"INT",
+			"answer",
+			"answer1",
+			"sessionStorage",
+			"===",
+			"value",
+			"email",
+			"Email",
+			"$cookieStore",
+			"AuthService",
+			"=",
+			"Session",
+			"$cookieStore",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"$rootScope",
+			"sequelize",
+			"{type:DataTypes.String}",
+			"false",
+			"Sequelize",
+			"DataTypes",
+			"Sequelize",
+			"User",
+			"String",
+			"DataTypes.STRING",
+			"question",
+			"survey",
+			"question",
+			"submit",
+			"obj",
+			"Column",
+			"1",
+			"ng-model=\"newQuestion.",
+			"surveyData",
+			"placeholder",
+			"newAttendee",
+			"attende",
+			"Attende",
+			"placeholder",
+			"</label",
+			"1</label>",
+			"Answer 1",
+			"1\">",
+			"md",
+			"placeholder",
+			"1\">",
+			"Answer 1",
+			"1</label>",
+			"md-8",
+			"col-md-offset-2",
+			"offset-1",
+			"col-md-offset-2",
+			"offset-1",
+			"10",
+			"col-md-8"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1371,6 +1354,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"surveySection",
+			"surveyForm",
 			"*\",",
 			"'",
 			"",
@@ -1438,96 +1423,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "public/views/home.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3379,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								201,
-								201
-							],
-							[
-								231,
-								231
-							],
-							[
-								263,
-								263
-							],
-							[
-								284,
-								284
-							],
-							[
-								397,
-								397
-							],
-							[
-								427,
-								427
-							],
-							[
-								459,
-								459
-							],
-							[
-								480,
-								480
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "public/css/style.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 26,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1574,7 +1471,7 @@
 	"project": "SurveyChallenge.sublime-project",
 	"replace":
 	{
-		"height": 48.0
+		"height": 72.0
 	},
 	"save_all_on_build": false,
 	"select_file":
@@ -1583,6 +1480,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"aut",
+				"config/auth.js"
+			],
+			[
+				"app",
+				"app.js"
+			],
 			[
 				"myuser",
 				"Mioty/myUserClass.swift"
@@ -1610,10 +1515,6 @@
 			[
 				"atten",
 				"app/models/attendees.js"
-			],
-			[
-				"app",
-				"app.js"
 			],
 			[
 				"por",
@@ -2090,10 +1991,6 @@
 			[
 				"pack",
 				"package.json"
-			],
-			[
-				"chat",
-				"public/chat.html"
 			]
 		],
 		"width": 0.0

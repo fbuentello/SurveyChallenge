@@ -36,7 +36,7 @@ node app.js
 
 Simple go to [localhost:3000](http://localhost:3000/) to view the application. 
 
-Click the `admin` button at the top right of the screen to view the login screen. From there, the creditials to login are:
+Click the `admin` button at the top right of the screen to view the login screen. From there, the credentials to login are:
 
 username: **sumoMe**   
 password: **test**
@@ -50,7 +50,7 @@ No single user can view the same question twice.
 1. Integrate PassportJS and use their sessions instead of JWTs
 2. Move away from hosted DB
 3. Clean up code.......ALOT
-4. Master Sequelize and MYSQL(again)
+4. Add Dashboard
 
 
 ##Project Structure
@@ -81,5 +81,5 @@ Pretty standard stuff, message me if confused.
 
 
 
-
-
+####Notes
+An error was occurring with sequelize. It seemed to be timing out its connection with ClearDB. Not sure if it's because the ClearDB database is free therefore on limited resources or something else. Regardless, everything still worked as it should, I believe this error might just be a warning while Need to revisit.
